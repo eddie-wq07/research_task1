@@ -1,0 +1,23 @@
+# Large data files
+*.tsv
+*.csv
+
+# DuckDB database files
+*.ddb
+*.ddb.wal
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
