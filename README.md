@@ -11,9 +11,7 @@ research_task1/
 ├── Task2/                      # Patents, DISCERN, and Clinical Trials Integration
 │   ├── task2_patents_discern_merge.ipynb
 │   ├── README.md
-│   ├── QUICK_REFERENCE.md
-│   ├── DELIVERABLES_SUMMARY.md
-│   ├── IMPLEMENTATION_GUIDE.md
+│   ├── DOCUMENTATION.md
 │   └── RA Task #2.pdf
 └── README.md (this file)
 ```
@@ -65,10 +63,8 @@ jupyter notebook task2_patents_discern_merge.ipynb
 ```
 
 **Documentation:**
-- **QUICK_REFERENCE.md** - Visual summary and key concepts
-- **DELIVERABLES_SUMMARY.md** - What gets submitted
-- **IMPLEMENTATION_GUIDE.md** - Technical deep dive (24 KB)
-- **README.md** - Detailed task documentation
+- **README.md** - Overview and methodology
+- **DOCUMENTATION.md** - Technical specifications and implementation details
 
 **Output:**
 - `firm_year_patents.csv` - Clean aggregated table (primary deliverable)
