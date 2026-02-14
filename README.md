@@ -101,19 +101,6 @@ jupyter notebook task2_patents_discern_merge.ipynb
 
 ---
 
-## Technical Stack
-
-- **Python 3.9+**
-- **DuckDB** - Memory-efficient large file processing
-- **Pandas** - Data manipulation and analysis
-- **Jupyter** - Interactive notebook environment
-
-**Optional:**
-- **RapidFuzz** - Fuzzy string matching (for DISCERN 2 integration)
-- **psutil** - Memory monitoring
-
----
-
 ## Notes
 
 - Large data files (.csv, .tsv, .ddb) are excluded from git via .gitignore
