@@ -1,0 +1,211 @@
+2026-02-15 13:51:08,641 - INFO - ============================================================
+2026-02-15 13:51:08,641 - INFO - PubMed Linkage Pipeline - Full Dataset Processing
+2026-02-15 13:51:08,641 - INFO - ============================================================
+2026-02-15 13:51:08,641 - INFO - Loading input file: ../Task2/clinical_trial_sample (1).csv
+2026-02-15 13:51:08,657 - INFO - Total NCT IDs in dataset: 9428
+2026-02-15 13:51:08,658 - INFO - Processing all 9428 NCT IDs
+2026-02-15 13:51:08,658 - INFO - Starting PubMed linkage pipeline...
+2026-02-15 13:51:08,658 - INFO - Loading checkpoint from checkpoint_results.csv
+2026-02-15 13:51:08,660 - INFO - Resuming from NCT ID index 100
+2026-02-15 13:51:56,952 - INFO - Checkpoint saved at NCT ID 150/9428
+2026-02-15 13:52:54,131 - INFO - Checkpoint saved at NCT ID 200/9428
+2026-02-15 13:53:38,130 - INFO - Checkpoint saved at NCT ID 250/9428
+2026-02-15 13:54:26,903 - INFO - Checkpoint saved at NCT ID 300/9428
+2026-02-15 13:55:16,953 - INFO - Checkpoint saved at NCT ID 350/9428
+2026-02-15 13:56:05,173 - INFO - Checkpoint saved at NCT ID 400/9428
+2026-02-15 13:56:57,871 - INFO - Checkpoint saved at NCT ID 450/9428
+2026-02-15 13:57:39,330 - INFO - Checkpoint saved at NCT ID 500/9428
+2026-02-15 13:58:19,002 - INFO - Checkpoint saved at NCT ID 550/9428
+2026-02-15 13:59:05,158 - INFO - Checkpoint saved at NCT ID 600/9428
+2026-02-15 13:59:45,846 - INFO - Checkpoint saved at NCT ID 650/9428
+2026-02-15 14:00:31,380 - INFO - Checkpoint saved at NCT ID 700/9428
+2026-02-15 14:01:11,652 - INFO - Checkpoint saved at NCT ID 750/9428
+2026-02-15 14:01:52,589 - INFO - Checkpoint saved at NCT ID 800/9428
+2026-02-15 14:02:46,404 - INFO - Checkpoint saved at NCT ID 850/9428
+2026-02-15 14:03:40,052 - INFO - Checkpoint saved at NCT ID 900/9428
+2026-02-15 14:04:27,620 - INFO - Checkpoint saved at NCT ID 950/9428
+2026-02-15 14:05:11,026 - INFO - Checkpoint saved at NCT ID 1000/9428
+2026-02-15 14:05:56,513 - INFO - Checkpoint saved at NCT ID 1050/9428
+2026-02-15 14:06:35,998 - INFO - Checkpoint saved at NCT ID 1100/9428
+2026-02-15 14:07:28,736 - INFO - Checkpoint saved at NCT ID 1150/9428
+2026-02-15 14:08:10,226 - INFO - Checkpoint saved at NCT ID 1200/9428
+2026-02-15 14:09:02,294 - INFO - Checkpoint saved at NCT ID 1250/9428
+2026-02-15 14:09:51,920 - INFO - Checkpoint saved at NCT ID 1300/9428
+2026-02-15 14:10:38,789 - INFO - Checkpoint saved at NCT ID 1350/9428
+2026-02-15 14:11:30,122 - INFO - Checkpoint saved at NCT ID 1400/9428
+2026-02-15 14:12:19,235 - INFO - Checkpoint saved at NCT ID 1450/9428
+2026-02-15 14:13:02,700 - INFO - Checkpoint saved at NCT ID 1500/9428
+2026-02-15 14:13:54,862 - INFO - Checkpoint saved at NCT ID 1550/9428
+2026-02-15 14:14:38,602 - INFO - Checkpoint saved at NCT ID 1600/9428
+2026-02-15 14:15:18,865 - INFO - Checkpoint saved at NCT ID 1650/9428
+2026-02-15 14:16:17,601 - INFO - Checkpoint saved at NCT ID 1700/9428
+2026-02-15 14:16:59,824 - INFO - Checkpoint saved at NCT ID 1750/9428
+2026-02-15 14:17:46,568 - INFO - Checkpoint saved at NCT ID 1800/9428
+2026-02-15 14:18:34,766 - INFO - Checkpoint saved at NCT ID 1850/9428
+2026-02-15 14:19:19,295 - INFO - Checkpoint saved at NCT ID 1900/9428
+2026-02-15 14:20:13,988 - INFO - Checkpoint saved at NCT ID 1950/9428
+2026-02-15 14:21:08,559 - INFO - Checkpoint saved at NCT ID 2000/9428
+2026-02-15 14:21:56,195 - INFO - Checkpoint saved at NCT ID 2050/9428
+2026-02-15 14:22:47,896 - INFO - Checkpoint saved at NCT ID 2100/9428
+2026-02-15 14:23:27,671 - INFO - Checkpoint saved at NCT ID 2150/9428
+2026-02-15 14:24:09,333 - INFO - Checkpoint saved at NCT ID 2200/9428
+2026-02-15 14:24:51,969 - INFO - Checkpoint saved at NCT ID 2250/9428
+2026-02-15 14:25:43,807 - INFO - Checkpoint saved at NCT ID 2300/9428
+2026-02-15 14:26:36,378 - INFO - Checkpoint saved at NCT ID 2350/9428
+2026-02-15 14:27:19,929 - INFO - Checkpoint saved at NCT ID 2400/9428
+2026-02-15 14:28:08,734 - INFO - Checkpoint saved at NCT ID 2450/9428
+2026-02-15 14:29:03,566 - INFO - Checkpoint saved at NCT ID 2500/9428
+2026-02-15 14:29:46,113 - INFO - Checkpoint saved at NCT ID 2550/9428
+2026-02-15 14:30:31,123 - INFO - Checkpoint saved at NCT ID 2600/9428
+2026-02-15 14:31:23,491 - INFO - Checkpoint saved at NCT ID 2650/9428
+2026-02-15 14:32:06,353 - INFO - Checkpoint saved at NCT ID 2700/9428
+2026-02-15 14:32:56,522 - INFO - Checkpoint saved at NCT ID 2750/9428
+2026-02-15 14:33:43,387 - INFO - Checkpoint saved at NCT ID 2800/9428
+2026-02-15 14:34:26,381 - INFO - Checkpoint saved at NCT ID 2850/9428
+2026-02-15 14:35:18,122 - INFO - Checkpoint saved at NCT ID 2900/9428
+2026-02-15 14:36:00,818 - INFO - Checkpoint saved at NCT ID 2950/9428
+2026-02-15 14:36:55,077 - INFO - Checkpoint saved at NCT ID 3000/9428
+2026-02-15 14:37:49,382 - INFO - Checkpoint saved at NCT ID 3050/9428
+2026-02-15 14:38:37,169 - INFO - Checkpoint saved at NCT ID 3100/9428
+2026-02-15 14:39:29,908 - INFO - Checkpoint saved at NCT ID 3150/9428
+2026-02-15 14:40:19,669 - INFO - Checkpoint saved at NCT ID 3200/9428
+2026-02-15 14:41:17,982 - INFO - Checkpoint saved at NCT ID 3250/9428
+2026-02-15 14:42:06,684 - INFO - Checkpoint saved at NCT ID 3300/9428
+2026-02-15 14:42:54,307 - INFO - Checkpoint saved at NCT ID 3350/9428
+2026-02-15 14:43:49,801 - INFO - Checkpoint saved at NCT ID 3400/9428
+2026-02-15 14:44:36,425 - INFO - Checkpoint saved at NCT ID 3450/9428
+2026-02-15 14:45:38,856 - INFO - Checkpoint saved at NCT ID 3500/9428
+2026-02-15 14:46:29,323 - INFO - Checkpoint saved at NCT ID 3550/9428
+2026-02-15 14:47:19,145 - INFO - Checkpoint saved at NCT ID 3600/9428
+2026-02-15 14:48:09,252 - INFO - Checkpoint saved at NCT ID 3650/9428
+2026-02-15 14:49:01,011 - INFO - Checkpoint saved at NCT ID 3700/9428
+2026-02-15 14:49:59,523 - INFO - Checkpoint saved at NCT ID 3750/9428
+2026-02-15 14:50:53,207 - INFO - Checkpoint saved at NCT ID 3800/9428
+2026-02-15 14:51:50,260 - INFO - Checkpoint saved at NCT ID 3850/9428
+2026-02-15 14:52:45,379 - INFO - Checkpoint saved at NCT ID 3900/9428
+2026-02-15 14:53:42,943 - INFO - Checkpoint saved at NCT ID 3950/9428
+2026-02-15 14:54:26,012 - INFO - Checkpoint saved at NCT ID 4000/9428
+2026-02-15 14:55:08,045 - INFO - Checkpoint saved at NCT ID 4050/9428
+2026-02-15 14:56:01,474 - INFO - Checkpoint saved at NCT ID 4100/9428
+2026-02-15 14:56:58,513 - INFO - Checkpoint saved at NCT ID 4150/9428
+2026-02-15 14:57:55,137 - INFO - Checkpoint saved at NCT ID 4200/9428
+2026-02-15 14:58:49,501 - INFO - Checkpoint saved at NCT ID 4250/9428
+2026-02-15 14:59:37,521 - INFO - Checkpoint saved at NCT ID 4300/9428
+2026-02-15 15:00:37,323 - INFO - Checkpoint saved at NCT ID 4350/9428
+2026-02-15 15:01:26,897 - INFO - Checkpoint saved at NCT ID 4400/9428
+2026-02-15 15:02:15,767 - INFO - Checkpoint saved at NCT ID 4450/9428
+2026-02-15 15:03:10,277 - INFO - Checkpoint saved at NCT ID 4500/9428
+2026-02-15 15:04:02,764 - INFO - Checkpoint saved at NCT ID 4550/9428
+2026-02-15 15:04:53,325 - INFO - Checkpoint saved at NCT ID 4600/9428
+2026-02-15 15:05:38,985 - INFO - Checkpoint saved at NCT ID 4650/9428
+2026-02-15 15:06:24,819 - INFO - Checkpoint saved at NCT ID 4700/9428
+2026-02-15 15:07:08,320 - INFO - Checkpoint saved at NCT ID 4750/9428
+2026-02-15 15:07:59,135 - INFO - Checkpoint saved at NCT ID 4800/9428
+2026-02-15 15:08:47,480 - INFO - Checkpoint saved at NCT ID 4850/9428
+2026-02-15 15:09:39,162 - INFO - Checkpoint saved at NCT ID 4900/9428
+2026-02-15 15:10:34,738 - INFO - Checkpoint saved at NCT ID 4950/9428
+2026-02-15 15:11:22,480 - INFO - Checkpoint saved at NCT ID 5000/9428
+2026-02-15 15:12:17,375 - INFO - Checkpoint saved at NCT ID 5050/9428
+2026-02-15 15:13:19,424 - INFO - Checkpoint saved at NCT ID 5100/9428
+2026-02-15 15:14:11,160 - INFO - Checkpoint saved at NCT ID 5150/9428
+2026-02-15 15:15:03,930 - INFO - Checkpoint saved at NCT ID 5200/9428
+2026-02-15 15:16:02,772 - INFO - Checkpoint saved at NCT ID 5250/9428
+2026-02-15 15:16:53,119 - INFO - Checkpoint saved at NCT ID 5300/9428
+2026-02-15 15:17:49,340 - INFO - Checkpoint saved at NCT ID 5350/9428
+2026-02-15 15:18:49,739 - INFO - Checkpoint saved at NCT ID 5400/9428
+2026-02-15 15:19:42,046 - INFO - Checkpoint saved at NCT ID 5450/9428
+2026-02-15 15:20:38,511 - INFO - Checkpoint saved at NCT ID 5500/9428
+2026-02-15 15:21:38,532 - INFO - Checkpoint saved at NCT ID 5550/9428
+2026-02-15 15:22:46,491 - INFO - Checkpoint saved at NCT ID 5600/9428
+2026-02-15 15:23:40,973 - INFO - Checkpoint saved at NCT ID 5650/9428
+2026-02-15 15:24:32,920 - INFO - Checkpoint saved at NCT ID 5700/9428
+2026-02-15 15:25:28,867 - INFO - Checkpoint saved at NCT ID 5750/9428
+2026-02-15 15:26:30,829 - INFO - Checkpoint saved at NCT ID 5800/9428
+2026-02-15 15:27:34,626 - INFO - Checkpoint saved at NCT ID 5850/9428
+2026-02-15 15:28:38,709 - INFO - Checkpoint saved at NCT ID 5900/9428
+2026-02-15 15:29:37,774 - INFO - Checkpoint saved at NCT ID 5950/9428
+2026-02-15 15:30:31,335 - INFO - Checkpoint saved at NCT ID 6000/9428
+2026-02-15 15:31:40,906 - INFO - Checkpoint saved at NCT ID 6050/9428
+2026-02-15 15:32:40,297 - INFO - Checkpoint saved at NCT ID 6100/9428
+2026-02-15 15:33:33,408 - INFO - Checkpoint saved at NCT ID 6150/9428
+2026-02-15 15:34:25,343 - INFO - Checkpoint saved at NCT ID 6200/9428
+2026-02-15 15:35:20,406 - INFO - Checkpoint saved at NCT ID 6250/9428
+2026-02-15 15:36:15,974 - INFO - Checkpoint saved at NCT ID 6300/9428
+2026-02-15 15:37:31,247 - INFO - Checkpoint saved at NCT ID 6350/9428
+2026-02-15 15:38:27,048 - INFO - Checkpoint saved at NCT ID 6400/9428
+2026-02-15 15:39:27,752 - INFO - Checkpoint saved at NCT ID 6450/9428
+2026-02-15 15:40:24,257 - INFO - Checkpoint saved at NCT ID 6500/9428
+2026-02-15 15:41:29,203 - INFO - Checkpoint saved at NCT ID 6550/9428
+2026-02-15 15:42:28,161 - INFO - Checkpoint saved at NCT ID 6600/9428
+2026-02-15 15:43:17,608 - INFO - Checkpoint saved at NCT ID 6650/9428
+2026-02-15 15:44:09,354 - INFO - Checkpoint saved at NCT ID 6700/9428
+2026-02-15 15:45:05,630 - INFO - Checkpoint saved at NCT ID 6750/9428
+2026-02-15 15:46:02,755 - INFO - Checkpoint saved at NCT ID 6800/9428
+2026-02-15 15:47:11,739 - INFO - Checkpoint saved at NCT ID 6850/9428
+2026-02-15 15:48:02,258 - INFO - Checkpoint saved at NCT ID 6900/9428
+2026-02-15 15:48:56,669 - INFO - Checkpoint saved at NCT ID 6950/9428
+2026-02-15 15:49:53,509 - INFO - Checkpoint saved at NCT ID 7000/9428
+2026-02-15 15:50:39,506 - INFO - Checkpoint saved at NCT ID 7050/9428
+2026-02-15 15:51:36,970 - INFO - Checkpoint saved at NCT ID 7100/9428
+2026-02-15 15:52:38,586 - INFO - Checkpoint saved at NCT ID 7150/9428
+2026-02-15 15:53:46,790 - INFO - Checkpoint saved at NCT ID 7200/9428
+2026-02-15 15:54:46,902 - INFO - Checkpoint saved at NCT ID 7250/9428
+2026-02-15 15:55:42,029 - INFO - Checkpoint saved at NCT ID 7300/9428
+2026-02-15 15:56:40,645 - INFO - Checkpoint saved at NCT ID 7350/9428
+2026-02-15 15:57:28,333 - INFO - Checkpoint saved at NCT ID 7400/9428
+2026-02-15 15:58:29,574 - INFO - Checkpoint saved at NCT ID 7450/9428
+2026-02-15 15:59:17,020 - INFO - Checkpoint saved at NCT ID 7500/9428
+2026-02-15 16:00:12,712 - INFO - Checkpoint saved at NCT ID 7550/9428
+2026-02-15 16:01:00,211 - INFO - Checkpoint saved at NCT ID 7600/9428
+2026-02-15 16:01:58,500 - INFO - Checkpoint saved at NCT ID 7650/9428
+2026-02-15 16:02:46,693 - INFO - Checkpoint saved at NCT ID 7700/9428
+2026-02-15 16:03:35,503 - INFO - Checkpoint saved at NCT ID 7750/9428
+2026-02-15 16:04:29,296 - INFO - Checkpoint saved at NCT ID 7800/9428
+2026-02-15 16:05:23,765 - INFO - Checkpoint saved at NCT ID 7850/9428
+2026-02-15 16:06:16,763 - INFO - Checkpoint saved at NCT ID 7900/9428
+2026-02-15 16:07:06,863 - INFO - Checkpoint saved at NCT ID 7950/9428
+2026-02-15 16:07:50,707 - INFO - Checkpoint saved at NCT ID 8000/9428
+2026-02-15 16:08:35,208 - INFO - Checkpoint saved at NCT ID 8050/9428
+2026-02-15 16:09:25,370 - INFO - Checkpoint saved at NCT ID 8100/9428
+2026-02-15 16:10:06,390 - INFO - Checkpoint saved at NCT ID 8150/9428
+2026-02-15 16:10:45,843 - INFO - Checkpoint saved at NCT ID 8200/9428
+2026-02-15 16:11:44,232 - INFO - Checkpoint saved at NCT ID 8250/9428
+2026-02-15 16:12:41,144 - INFO - Checkpoint saved at NCT ID 8300/9428
+2026-02-15 16:13:39,487 - INFO - Checkpoint saved at NCT ID 8350/9428
+2026-02-15 16:14:27,331 - INFO - Checkpoint saved at NCT ID 8400/9428
+2026-02-15 16:15:20,465 - INFO - Checkpoint saved at NCT ID 8450/9428
+2026-02-15 16:16:17,587 - INFO - Checkpoint saved at NCT ID 8500/9428
+2026-02-15 16:17:06,428 - INFO - Checkpoint saved at NCT ID 8550/9428
+2026-02-15 16:17:52,547 - INFO - Checkpoint saved at NCT ID 8600/9428
+2026-02-15 16:18:41,153 - INFO - Checkpoint saved at NCT ID 8650/9428
+2026-02-15 16:19:33,658 - INFO - Checkpoint saved at NCT ID 8700/9428
+2026-02-15 16:20:25,103 - INFO - Checkpoint saved at NCT ID 8750/9428
+2026-02-15 16:21:16,828 - INFO - Checkpoint saved at NCT ID 8800/9428
+2026-02-15 16:22:09,823 - INFO - Checkpoint saved at NCT ID 8850/9428
+2026-02-15 16:23:02,743 - INFO - Checkpoint saved at NCT ID 8900/9428
+2026-02-15 16:23:53,584 - INFO - Checkpoint saved at NCT ID 8950/9428
+2026-02-15 16:24:55,053 - INFO - Checkpoint saved at NCT ID 9000/9428
+2026-02-15 16:25:38,127 - INFO - Checkpoint saved at NCT ID 9050/9428
+2026-02-15 16:26:19,620 - INFO - Checkpoint saved at NCT ID 9100/9428
+2026-02-15 16:26:59,539 - INFO - Checkpoint saved at NCT ID 9150/9428
+2026-02-15 16:27:44,425 - INFO - Checkpoint saved at NCT ID 9200/9428
+2026-02-15 16:28:38,095 - INFO - Checkpoint saved at NCT ID 9250/9428
+2026-02-15 16:29:22,174 - INFO - Checkpoint saved at NCT ID 9300/9428
+2026-02-15 16:30:08,606 - INFO - Checkpoint saved at NCT ID 9350/9428
+2026-02-15 16:30:43,571 - INFO - Checkpoint saved at NCT ID 9400/9428
+2026-02-15 16:31:03,164 - INFO - Final checkpoint saved
+2026-02-15 16:31:03,166 - INFO - Pipeline completed!
+2026-02-15 16:31:03,184 - INFO - Results saved to nct_pubmed_linkage.csv
+2026-02-15 16:31:03,184 - INFO - ============================================================
+2026-02-15 16:31:03,184 - INFO - SUMMARY STATISTICS
+2026-02-15 16:31:03,184 - INFO - ============================================================
+2026-02-15 16:31:03,191 - INFO - Total NCT IDs processed: 9428
+2026-02-15 16:31:03,196 - INFO - NCT IDs with at least one publication: 3988 (42.3%)
+2026-02-15 16:31:03,196 - INFO - NCT IDs without publications: 5440 (57.7%)
+2026-02-15 16:31:03,197 - INFO - Total publications found: 10455
+2026-02-15 16:31:03,197 - INFO - Average publications per NCT ID (with pubs): 2.62
+2026-02-15 16:31:03,198 - INFO - Publications with AI references: 1049 (10.0%)
+2026-02-15 16:31:03,199 - INFO - NCT IDs with at least one AI publication: 641 (6.8%)
+2026-02-15 16:31:03,199 - INFO - ============================================================
+2026-02-15 16:31:03,199 - INFO - Processing complete!
+2026-02-15 16:31:03,199 - INFO - ============================================================
