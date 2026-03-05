@@ -1,6 +1,16 @@
 # Large data files
 *.tsv
 *.csv
+*.dta
+*.zip
+
+# Specific large files (USPTO AIPD is 2.8GB)
+ai_model_predictions.csv
+**/discern_pat_*.csv
+**/discern_pat_*.dta
+**/discern_pub_*.csv
+**/discern_pub_*.dta
+**/discern_sub_names.dta
 
 # DuckDB database files
 *.ddb
